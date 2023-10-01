@@ -1,4 +1,4 @@
-# engr-ALDA-Fall2022-P7
+# Monarch Regression Modeling
 
 process_data.py processes the GlobalLandTemperaturesByCity.csv to create two data sets: one including only the summer breeding grounds of the monarch butterfly as well as the breeding months of the butterfly and the other containing only the winter hibernation grounds and months of the monarch butterfly. This class also removes all empty/ incomplete data. The processed datasets that we will use for our project are saved as ProcessedData_Hyp1.csv and ProcessedData_Hyp2.csv within the data folder.
 
