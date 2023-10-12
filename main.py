@@ -14,13 +14,13 @@ def hypothesis_1():
     #print()
     #poly_regression(df_hyp1, city_name)
     
-    #visualizes Peoria in July (southern area of the breeding range during peak breeding month)
+    #visualizes Peoria in July (southern-most border of the breeding range during peak breeding month)
     #df_peoria = visualize_southern_part_of_breeding_ground(df_hyp1)
 
     #visualizes Minneapolis in July (center of the breeding range during peak breeding month)
     #df_minneapolis = visualize_middle_of_breeding_ground(df_hyp1)
 
-    #visualizes Ottowa in July (center of the breeding range during peak breeding month)
+    #visualizes Ottowa in July (nothern-most border of the breeding range during peak breeding month)
     #df_ottawa = visualize_northern_part_of_breeding_ground(df_hyp1)
 
 def hypothesis_2():
